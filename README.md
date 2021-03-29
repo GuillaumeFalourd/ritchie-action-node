@@ -2,6 +2,8 @@
 
 This Github action works for Ritchie CLI formulas implemented in **NODE**.
 
+[![Action workflow](https://github.com/GuillaumeFalourd/ritchie-actions-node/actions/workflows/main.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-actions-node/actions/workflows/main.yml)
+
 ## Use case
 
 ```bash
