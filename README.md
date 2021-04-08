@@ -1,6 +1,6 @@
 # ritchie-action-python
 
-This Github action works for Ritchie CLI formulas implemented in **NODE**.
+This Github action works for [Ritchie CLI](https://ritchiecli.io/) formulas implemented in **NODE**.
 
 [![Action workflow (PUBLIC)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/public-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/public-repo-demo-workflow.yml)
 
