@@ -1,4 +1,4 @@
-name: 'Ritchie CLI action (Node)'
+name: 'Ritchie CLI action (node)'
 
 description: 'Execute Ritchie CLI formulas implemented in NODE'
 
