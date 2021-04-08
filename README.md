@@ -1,4 +1,4 @@
-# ritchie-action-python
+# ritchie-action-node
 
 This Github action works for [Ritchie CLI](https://ritchiecli.io/) formulas implemented in **NODE**.
 
