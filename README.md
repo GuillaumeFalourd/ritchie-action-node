@@ -1,12 +1,19 @@
 # ritchie-action-node
 
+<a href="https://github.com/search?q=GuillaumeFalourd+ritchie-action-node+path%3A.github%2Fworkflows+language%3AYAML&type=code" target="_blank" title="Public workflows that use this action."><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi-git-master.endbug.vercel.app%2Fapi%2Fgithub-actions%2Fused-by%3Faction%3DGuillaumeFalourd%2Fritchie-action-node%26badge%3Dtrue" alt="Public workflows that use this action."></a>
+
 This Github action works for [Ritchie CLI](https://ritchiecli.io/) formulas implemented in **NODE**.
 
 [![Action workflow (PUBLIC)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/public-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/public-repo-demo-workflow.yml)
 
 [![Action workflow (PRIVATE)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/private-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-node/actions/workflows/private-repo-demo-workflow.yml)
 
-## Use cases
+## How to use this action?
+
+Field | Mandatory | Observation
+------------ | ------------  | -------------
+**rit-repo-url** | YES | Formula repository URL
+**rit-formula-command** | YES | Formula command with input flags
 
 ### Executing a formula from a PUBLIC repository
 
